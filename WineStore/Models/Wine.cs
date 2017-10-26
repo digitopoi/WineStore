@@ -9,7 +9,7 @@ namespace WineStore.Models
     {
         public int ProductID { get; set; }
         public string Winery { get; set; }
-        public DateTime Year { get; set; }
+        public string Year { get; set; }
         public string Region { get; set; }
         public string Grape { get; set; }
         public string Color { get; set; }
