@@ -13,10 +13,10 @@ namespace WineStore.Models
         public string Region { get; set; }
         public string Grape { get; set; }
         public string Color { get; set; }
-        public int Rating { get; set; }
-        public int Rater { get; set; }
-        public string Description { get; set; }
-        public int Stock { get; set; }
-        public string Image { get; set; }
+        //public int Rating { get; set; }
+        //public int Rater { get; set; }
+        //public string Description { get; set; }
+        //public int Stock { get; set; }
+        //public string Image { get; set; }
     }
 }
